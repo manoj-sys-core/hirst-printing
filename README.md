@@ -3,7 +3,7 @@
 This project is a recreation of Damien Hirst's iconic dot paintings using Python's Turtle graphics module. Each dot is randomly colored and placed in a grid to create a vibrant, generative artwork.
 
 <p align="center">
-  <img src="https://github.com/manoj-sys-core/password-manager-GUI/blob/main/assets/new1.png" width="700" alt="Password Manager GUI Screenshot"/>
+  <img src="https://github.com/manoj-sys-core/hirst-printing/blob/main/assets/preview.png" width="700" alt="Password Manager GUI Screenshot"/>
 </p>
 
 ## 🧠 Project Idea
